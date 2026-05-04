@@ -2,8 +2,7 @@
 
 **Variational Information Flow Dynamics: A Physics-Inspired AI Framework for Control of Complex Energy and Thermal Systems**
 
-> S. Guizani · T. Alshammari · H. Hamam  
-> *Energy and AI* (Elsevier, Q1) — Submission 2026
+>  H. Hamam  
 
 ---
 
