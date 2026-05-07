@@ -1,0 +1,12 @@
+Parameter,Symbol,Value,Constraint / Unit
+Grid resolution,$N \times N$,100×100,—
+Spatial step,$\Delta x$,0.0100,normalised
+Time step,$\Delta t$,0.0006,—
+Total iterations,$N_{\text{steps}}$,1200,—
+Diffusion coeff.,$D$,0.0004,—
+Relaxation strength,$\alpha$,1.8,—
+Flow speed,$|\mathbf{v}|_\infty$,0.1414,normalised/s
+Von Neumann no.,$r = D\Delta t/\Delta x^2$,0.00240,$\leq 0.25$
+CFL number,CFL,0.00849,$\leq 1$
+Safety temp.,$T_{\text{safe}}$,44.0°C,—
+Critical temp.,$T_{\text{crit}}$,62.0°C,—

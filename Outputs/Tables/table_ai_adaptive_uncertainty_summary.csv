@@ -1,0 +1,5 @@
+Method,Final T_max [C],Overheat fraction [%],Mean ctrl effort,Mean cooling power,Final Lyapunov E,Final decision loss,Final MI(T;pi),"Final r(T,pi)",Final alpha,Final beta,Final D
+Fixed-clean VIFD,54.083,7.43,0.000787,0.180103,0.00042096,1.614395,0.300843,0.620545,3.5,0.2,0.00035
+Adaptive-clean VIFD,54.088,7.43,0.000786,0.179895,0.00042224,1.615795,0.300697,0.620536,3.491681,0.19884,0.00034983
+Fixed-uncertain VIFD,54.67,7.08,0.007116,0.538907,0.00040246,1.689619,0.230185,0.555363,3.5,0.2,0.00035
+Adaptive-uncertain VIFD,54.675,7.08,0.007115,0.538742,0.00040355,1.690885,0.230345,0.555334,3.491619,0.201123,0.00035202

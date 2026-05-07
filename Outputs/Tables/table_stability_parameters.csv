@@ -1,0 +1,9 @@
+Parameter,Value,Constraint,Status
+Grid size N,100,—,✓
+Spatial step Δx,0.0100,—,✓
+Time step Δt,0.0006,—,✓
+Diffusivity D,0.0004,—,✓
+Von Neumann number r,0.00240,r ≤ 0.25,✓
+Max flow speed |v|∞,0.1414,—,✓
+CFL number,0.0085,CFL ≤ 1,✓
+Relaxation α,1.8,α·Δt < 1,✓

@@ -1,0 +1,2 @@
+Method,Final T_max [C],Overheat fraction [%],Mean ctrl effort,Mean cooling power,Final MI(T;pi),"Final r(T,pi)",Final TV
+RF surrogate controller,53.372,7.44,0.000779,0.179546,0.272719,0.573464,0.001888
