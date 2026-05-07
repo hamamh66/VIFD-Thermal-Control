@@ -1,8 +1,0 @@
-Condition,Value,Requirement,Status
-Thermal von Neumann r_T,0.06000,r_T <= 0.25,OK
-Decision von Neumann r_pi,0.00210,r_pi <= 0.25,OK
-CFL (decision advection),0.00764,CFL <= 1,OK
-Relaxation  alpha.Δt,0.00210,< 1,OK
-Energy penalty beta.Δt,0.00012,< 1,OK
-Cooling  h.Δt/(rhocp),0.00480,< 1,OK
-Lyapunov rate 2(alpha+beta),7.400,> 0,OK

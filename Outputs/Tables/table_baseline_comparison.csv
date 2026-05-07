@@ -1,5 +1,0 @@
-Method,MSE to target,Mean absolute error,Total variation,Smoothness (∇² proxy),Mean control effort,Control energy ∫π dΩ,Max overshoot
-Threshold baseline,0.026051,0.03466,0.01495,74.0,0.0549,0.0549,0.99918
-Proportional baseline,2e-06,0.00027,0.00724,5.812818,0.02024,0.02024,0.02086
-PID baseline,0.004884,0.01312,0.00256,0.748057,0.00712,0.00712,0.0
-VIFD (proposed),0.001542,0.01792,0.00531,2.35007,0.02551,0.02551,0.12806

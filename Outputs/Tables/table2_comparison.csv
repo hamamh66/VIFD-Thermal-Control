@@ -1,6 +1,0 @@
-Method,Final T_max [C],T_max reduction [C],Overheat fraction [%],Thermal comfort [%],Mean ctrl effort,Mean cooling power,Efficiency ratio,Mean TV
-Threshold,45.0,18.6,1.42,35.1,0.006,1.10443,3106.0,0.01704
-Proportional,51.4,12.3,8.72,34.9,0.00319,0.67968,3841.48,0.00106
-PID,50.5,13.1,8.39,34.9,0.00361,0.75079,3639.98,0.00121
-MPC-lite,51.4,12.3,8.72,34.9,0.00319,0.67968,3841.48,0.00106
-VIFD (proposed),53.6,10.1,9.69,34.9,0.00199,0.45818,5082.37,0.00067

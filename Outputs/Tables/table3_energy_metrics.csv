@@ -1,5 +1,0 @@
-Method,Mean control effort (energy proxy),Avg temperature reduction [°C],Fraction overheated (>T_safe),Efficiency ratio
-Threshold baseline,0.0549,-0.92,0.0484,-16.782
-Proportional baseline,0.02024,-1.55,0.0875,-76.346
-PID baseline,0.00712,-1.78,0.0875,-250.075
-VIFD (proposed),0.02551,-1.5,0.0853,-58.858

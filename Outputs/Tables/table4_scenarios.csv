@@ -1,5 +1,0 @@
-Scenario,Final T_max [°C],Overheat [%],Mean cooling [W/m^2],Mean ctrl effort
-A: Steady,53.3,5.32,0.0612,0.0003
-B: Step surge,54.8,13.54,0.1259,0.0005
-C: Oscillating,54.3,7.15,0.1094,0.0005
-D: Fault+heal,53.3,5.37,0.0615,0.0003
